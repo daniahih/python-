@@ -1,0 +1,6 @@
+[1] Text editor or IDE =>Vs code Or PyCharm 
+https://code.visualstudio.com/download
+[2] Download python 
+https://www.python.org/downloads/
+[3] python extenstion 
+[4] learn command line 
